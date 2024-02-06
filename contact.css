@@ -125,9 +125,12 @@ body{
 .box3 .box3-1{
     width: 75%;
     height: 550px;
-    background-color: #92dbdbb9;
+    background-color: #9eececb9;
     border-radius: 15px;
     border: 1px solid;
     margin-top: 6%;
     margin-left: 5%;
+}
+span{
+    color: blue;
 }
